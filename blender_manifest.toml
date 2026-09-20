@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "blue_handles"
+version = "1.0.0"
+name = "Blue Handles"
+tagline = "Curve-Like Mesh Deformation"
+maintainer = "Ata_Javvi"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
